@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz. I am Xue Cong
+title: Welcome to my website!
 ---
 
-This is a blank Quartz installation.
+Hi I am Xue Cong :D
+
+I am a Year 3 student studying Data Science at Ngee Ann Polytechnic.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
