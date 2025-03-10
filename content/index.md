@@ -2,8 +2,24 @@
 title: Welcome!
 ---
 
-Hi I am Xue Cong :D
+# Welcome to my website!
 
-I am a Year 3 student studying Data Science at Ngee Ann Polytechnic.
+Hi, I am **Xue Cong** :D
+
+I am a Year 3 student studying **Data Science** at **Ngee Ann Polytechnic**.
+
+In my spare time, I enjoy working on research in the field of **AI** and **Data Science**. 
+
+Feel free to explore the site and learn more about my work, research, and achievements.
+
+---
+
+- [Biography](biography.md)
+- [Research](research.md)
+- [Publications](publications.md)
+- [CV](cv.md)
+- [Teaching](teaching.md)
+- [Miscellaneous](misc.md)
+- [Contact](contact.md)
 
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
