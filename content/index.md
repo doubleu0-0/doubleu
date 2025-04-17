@@ -17,5 +17,3 @@ Feel free to explore the site and learn more about my work, research, and achiev
 - [Biography](biography.md)
 - [CV](cv.md)
 - [Contact](contact.md)
-
-This website uses [quartz](https://quartz.jzhao.xyz), a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites.
