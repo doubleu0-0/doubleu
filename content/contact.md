@@ -6,13 +6,10 @@ title: Contact
 
 If you’d like to get in touch, feel free to email me at:
 
-- **Personal Email**: [bwang28c@gmail.com](mailto:bwang28c@gmail.com)
-- **Work Email**: [wang_bin@i2r.a-star.edu.sg](mailto:wang_bin@i2r.a-star.edu.sg)
+- [teyxuecong01@gmail.com](mailto:teyxuecong01@gmail.com)
 
 You can also connect with me on:
-- [GitHub](#)
-- [LinkedIn](#)
-- [Twitter](#)
-- [HuggingFace](#)
+- [GitHub](#https://github.com/doubleu0-0)
+- [LinkedIn](#https://www.linkedin.com/in/xue-cong-tey-7a9a89273/)
 
 Looking forward to hearing from you!

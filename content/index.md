@@ -15,10 +15,7 @@ Feel free to explore the site and learn more about my work, research, and achiev
 ---
 
 - [Biography](biography.md)
-- [Research](research.md)
-- [Publications](publications.md)
 - [CV](cv.md)
-- [Teaching](teaching.md)
 - [Miscellaneous](misc.md)
 - [Contact](contact.md)
 
