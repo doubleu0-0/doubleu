@@ -1,9 +1,6 @@
 ---
 title: CV
 ---
-
-# Xue Cong's CV
-
 # **EDUCATION**
 
 **Ngee Ann Polytechnic** – *Singapore, Singapore*  
