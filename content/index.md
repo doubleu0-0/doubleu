@@ -17,3 +17,4 @@ Feel free to explore the site and learn more about my work, research, and achiev
 - [Biography](biography.md)
 - [CV](cv.md)
 - [Contact](contact.md)
+- [Misc](misc.md)
