@@ -65,9 +65,13 @@ title: CV
 # **SKILLS**
 
 **Python**  
+- Deep Learning (TensorFlow, Natural-language processing)
 - Machine Learning (Scikit-Learn, Feature Engineering, Hugging Face)  
 - Data Preprocessing (NumPy, Pandas)  
 
 **Data Visualization**  
 - PowerBI  
-- Tableau  
+- Tableau
+
+**Extra**
+- Docker, AWS, Computer vision, AIGC
