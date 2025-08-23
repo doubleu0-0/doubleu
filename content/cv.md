@@ -18,7 +18,7 @@ title: CV
 **Data Scientist Intern**  
 *Feb 2025 – Apr 2025*  
 *Supervisors: Bin Wang, Xun Long*  
-- Contributed to data collection and data processing for the National Multimodal LLM Project (NRF Grant: $70M) focused on multimodal and multilingual model evaluation, specifically for the MERaLiON AudioLLM
+- Contributed to data collection and data processing for the National Multimodal LLM Project (NRF Grant: $70M) focused on multimodal and multilingual model evaluation, specifically for the MERaLiON AudioLLM  
 
 **Ngee Ann Polytechnic** – *Singapore, Singapore*  
 **Student Helper for Module Creation (Data Lake and Warehouse)**  
@@ -30,11 +30,16 @@ title: CV
 
 # **PROJECTS**
 
-**Airbnb Pricing Model** – *Singapore, Singapore*  
-*Python & feature engine | Nov 2024 – Feb 2025*  
-- Built multiple regression models to predict Airbnb prices using features like location, amenities, and property type  
-- Deployed an interactive web app locally using Streamlit to allow users to input property details and receive real-time price estimate  
-- Achieved 27.60 MAE and 0.779 R² score on the test dataset  
+**AI Chatbot with Avatar** – *Singapore, Singapore*  
+*Generative AI & LLMs | Apr 2025 – Jul 2025*  
+- Led a team of 4 to create a locally hosted Chatbot with an avatar for Verztec Consulting  
+- Fully local deployment with Ollama and Llama index  
+- Independently developed chatbot functionality and implemented Role-Based Access Control (RBAC), along with additional supporting features  
+
+**Food Image Classifier** – *Singapore, Singapore*  
+*Deep Learning & Computer Vision | Jun 2025 – Jul 2025*  
+- Built multiple CNN models to predict food from images (10 labels)  
+- Achieved 92.2% accuracy on the balanced test dataset  
 
 **HR Analytics Model** – *Singapore, Singapore*  
 *Python & scikit-learn | Nov 2024 – Feb 2025*  
@@ -42,20 +47,16 @@ title: CV
 - Improved classification performance using techniques such as SMOTE oversampling and hyperparameter tuning  
 - Achieved 96.75% Recall and 86.94% F-Beta (β = 1.5) score on the test dataset  
 
-**Baseball MVP Prediction Model** – *Singapore, Singapore*  
-*Python & NumPy | July 2024 – Aug 2024*  
-- Extracted, merged, and preprocessed data from multiple tables for machine learning model development  
-- Created a logistic regression model utilizing oversampling techniques to address the imbalanced dataset  
-- Achieved 98.47% accuracy and 98.11% F1 score for the oversampled training dataset  
-
 ---
 
 # **HONORS AND AWARDS**
 
-- A\*STAR Science Awards (Polytechnic) – *November 2024*  
-- Second Most Outstanding Performance in Cohort, Year 2, Semester 1 – *November 2024*  
-- Third Most Outstanding Performance in Cohort, Year 1, Semester 2 – *June 2024*  
-- Second Most Outstanding Performance in Cohort, Year 1, Semester 1 – *December 2023*  
+- A\*STAR Science Awards (Polytechnic) – *Nov 2024*  
+- Most Outstanding Performance in Cohort, Year 2, Semester 2 – *May 2025*  
+- Second Most Outstanding Performance in Cohort, Year 2, Semester 1 – *Nov 2024*  
+- Third Most Outstanding Performance in Cohort, Year 1, Semester 2 – *Jun 2024*  
+- Second Most Outstanding Performance in Cohort, Year 1, Semester 1 – *Dec 2023*  
+- Director’s List, Year 2, Semester 2  
 - Director’s List, Year 2, Semester 1  
 - Director’s List, Year 1, Semester 2  
 - Director’s List, Year 1, Semester 1  
@@ -65,8 +66,8 @@ title: CV
 # **CERTIFICATIONS**
 
 - **Alteryx Designer Core Certification** – *Jan 2025 – Jan 2027*  
-- **Professional Scrum Master I** – *November 2024*  
-- **Amazon Web Services Cloud Practitioner** – *June 2024 – June 2027*  
+- **Professional Scrum Master I** – *Nov 2024*  
+- **Amazon Web Services Cloud Practitioner** – *Jun 2024 – Jun 2027*  
 
 ---
 
@@ -78,4 +79,4 @@ title: CV
 - Data Preprocessing (NumPy, Pandas)  
 
 **Extra**  
-- Docker, AWS, Computer Vision, AIGC, PowerBI, Tableau
+- AWS, PowerBI, Tableau  
