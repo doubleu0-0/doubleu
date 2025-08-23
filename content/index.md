@@ -8,9 +8,9 @@ Hi, I am **Xue Cong** :D
 
 I am a Year 3 student studying **Data Science** at **Ngee Ann Polytechnic**.
 
-In my spare time, I enjoy working on research in the field of **AI** and **Data Science**. 
+In my spare time, I enjoy skating and exercising. I'm interested in the latest ai developments and image generation.
 
-Feel free to explore the site and learn more about my work, research, and achievements.
+Feel free to click on the links below to find out more about me:
 
 ---
 
